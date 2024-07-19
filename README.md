@@ -42,14 +42,14 @@ This script provides a menu-driven interface for running various vulnerability s
 Clone the repository and navigate to the directory:
 
 ```bash
-git clone https://github.com/yourusername/vuln-scan-tool.git
-cd vuln-scan-tool
+[git clone https://github.com/2002hackerr/CODETECH-Task2.git]
+cd CODETECH-Task2
 ```
 
 Make the script executable:
 
 ```bash
-chmod +x vuln_scan_menu.sh
+chmod +x CODETECH-Task2.sh
 ```
 
 ## Usage
@@ -57,7 +57,7 @@ chmod +x vuln_scan_menu.sh
 Run the script:
 
 ```bash
-./vuln_scan_menu.sh
+./CODETECH-Task2.sh
 ```
 
 Follow the on-screen prompts to select a vulnerability scanning tool, provide target information, and handle the scan output.
@@ -74,6 +74,9 @@ Follow the on-screen prompts to select a vulnerability scanning tool, provide ta
 
 ```bash
 #!/bin/bash
+
+echo "Created By = PATHLAVATH MUKESH "
+echo "ID:CT12CCH156"
 
 # Function to check if a command exists
 command_exists() {
@@ -261,6 +264,7 @@ main_menu() {
 # Execute the main menu
 main_menu
 ```
+![Screenshot_2024-07-19_21_19_24](https://github.com/user-attachments/assets/66e07552-7204-4c52-804b-75decf560076)
 
 ## Contributing
 
