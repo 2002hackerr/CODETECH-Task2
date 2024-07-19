@@ -42,7 +42,7 @@ This script provides a menu-driven interface for running various vulnerability s
 Clone the repository and navigate to the directory:
 
 ```bash
-[git clone https://github.com/2002hackerr/CODETECH-Task2.git]
+git clone https://github.com/2002hackerr/CODETECH-Task2.git
 cd CODETECH-Task2
 ```
 
