@@ -1,3 +1,4 @@
+![Screenshot_2024-07-19_21_19_24](https://github.com/user-attachments/assets/a141443e-d72f-4d8a-b4e4-5bfbb272abbf)
 # TASK TWO: VULNERABILITY SCANNING TOOL
 
 ## Project Details
